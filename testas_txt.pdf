@@ -1,0 +1,111 @@
+{
+  "vardas": "Tomas",
+  "pavarde": "Kazlauskas",
+  "gimimo_data": "1994-06-18",
+  "lytis": "",
+  "pilietybe": "",
+  "miestas": "Kaunas, Lietuva",
+  "tel_nr": "+370 612 34567",
+  "el_pastas": "tomas.kazlauskas@email.lt",
+  "trumpai_apie_mane": "Motyvuotas ir atsakingas projektų koordinatorius, turintis daugiau nei 5 metų patirtį administravimo ir komandos darbo srityse. Gebu efektyviai planuoti darbus, bendrauti su klientais bei spręsti problemas. Nuolat siekiu tobulėti ir prisidėti prie organizacijos tikslų įgyvendinimo.",
+  "pageidaujamas_atlyginimas": "",
+  "galima_darbo_pradzia": "",
+  "siuo_metu_nedirbu": "",
+  "pageidaujama_darbo_sritis": [
+    "Administravimas/darbų sauga"
+  ],
+  "pageidaujamu_pareigu_tipai": [
+    "Specialistai, vadybininkai ir pan."
+  ],
+  "darbo_patirtis": [
+    {
+      "nuo": "2019 09",
+      "iki": "2024 08",
+      "jusu_pareigos": "Projektų koordinatorius",
+      "imone": "UAB „Baltic Solutions“, Kaunas",
+      "imones_svetaine": "",
+      "trumpas_darbo_aprasymas": "Projektų grafikų sudarymas ir priežiūra; Komunikacija su klientais ir partneriais; Komandos darbo koordinavimas (iki 8 asmenų); Ataskaitų rengimas vadovybei",
+      "darbo_sritis": "Administravimas/darbų sauga"
+    },
+    {
+      "nuo": "2017 06",
+      "iki": "2019 08",
+      "jusu_pareigos": "Administratoriaus asistentas",
+      "imone": "UAB „Kauno paslaugos“, Kaunas",
+      "imones_svetaine": "",
+      "trumpas_darbo_aprasymas": "Dokumentų administravimas; Klientų aptarnavimas telefonu ir el. paštu; Pagalba vadovui kasdienėje veikloje",
+      "darbo_sritis": "Administravimas/darbų sauga"
+    }
+  ],
+  "issilavinimas": [
+    {
+      "nuo": "2013",
+      "iki": "2017",
+      "laipsnis": "Bakalauras",
+      "mokymosi_istaiga": "Vytauto Didžiojo universitetas",
+      "issilavinimo_sritis": "Verslo administravimas",
+      "specialybe": "Verslo administravimo bakalauras"
+    }
+  ],
+  "kalbos": [
+    {
+      "kalba": "Lietuvių",
+      "kalbejimas": "Puikiai",
+      "supratimas": "Puikiai",
+      "rasymas": "Puikiai",
+      "komentaras": "Lietuvių – gimtoji"
+    },
+    {
+      "kalba": "Anglų",
+      "kalbejimas": "Puikiai",
+      "supratimas": "Puikiai",
+      "rasymas": "Puikiai",
+      "komentaras": "Anglų – labai gerai"
+    },
+    {
+      "kalba": "Rusų",
+      "kalbejimas": "Pagrindai",
+      "supratimas": "Pagrindai",
+      "rasymas": "Pagrindai",
+      "komentaras": "Rusų – pagrindai"
+    }
+  ],
+  "kompiuterines_zinios": [
+    {
+      "programa_it_technologija": "MS Office (Word, Excel, PowerPoint)",
+      "vertinimas": "",
+      "komentaras": ""
+    },
+    {
+      "programa_it_technologija": "Trello",
+      "vertinimas": "",
+      "komentaras": ""
+    },
+    {
+      "programa_it_technologija": "Asana",
+      "vertinimas": "",
+      "komentaras": ""
+    }
+  ],
+  "kursai_seminarai": [],
+  "naryste_organizacijose": [],
+  "rekomendacijos": [
+    {
+      "kontaktinis_asmuo": "Jonas Petrauskas",
+      "imone": "UAB „Baltic Solutions“",
+      "pareigos": "Projektų vadovas",
+      "telefonas": "+370 698 11223",
+      "el_pastas": "jonas.petrauskas@balticsolutions.lt"
+    }
+  ],
+  "kita_informacija": {
+    "vairuotojo_pazymejimas": [
+      {
+        "kategorija": "B",
+        "metai": "",
+        "menuo": ""
+      }
+    ],
+    "laisvalaikio_pomegiai": "bėgimas; savanorystė; knygų skaitymas"
+  }
+}
